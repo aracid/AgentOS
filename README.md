@@ -242,6 +242,7 @@ Each file is self-contained and can be used independently or as part of the comp
 
 *AgentOS: Accelerating development through proven patterns and standards.*
 
-This has been inspired by (Thank you for the insight)
-# Brian Casel - https://www.youtube.com/watch?v=CTMyzeKKb0o
-# Bmad Code - https://www.youtube.com/watch?v=1wQUio9TiIQ
+# This has been inspired by (Thank you for the inspiration)
+
+## Brian Casel - https://www.youtube.com/watch?v=CTMyzeKKb0o
+## Bmad Code - https://www.youtube.com/watch?v=1wQUio9TiIQ
