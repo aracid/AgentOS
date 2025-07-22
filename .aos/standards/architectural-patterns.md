@@ -1,5 +1,9 @@
 # Architectural Patterns Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides standardized architectural patterns for building scalable applications.
 
 ## Core Processing Pipeline

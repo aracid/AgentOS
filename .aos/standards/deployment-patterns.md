@@ -1,5 +1,9 @@
 # Deployment Patterns Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides standardized deployment patterns for modern web applications.
 
 ## Deployment Strategy Overview

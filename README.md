@@ -4,6 +4,8 @@
 
 # AgentOS
 
+**Version: 1.0.0** | **Released: January 2025**
+
 > A comprehensive development framework and standards collection for building modern web applications with consistent patterns, best practices, and reusable templates.
 
 ## Overview
@@ -239,3 +241,7 @@ Each file is self-contained and can be used independently or as part of the comp
 ---
 
 *AgentOS: Accelerating development through proven patterns and standards.*
+
+This has been inspired by (Thank you for the insight)
+# Brian Casel - https://www.youtube.com/watch?v=CTMyzeKKb0o
+# Bmad Code - https://www.youtube.com/watch?v=1wQUio9TiIQ

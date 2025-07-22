@@ -1,5 +1,9 @@
 # Development Workflow Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides standardized development workflows for consistent team collaboration and code quality.
 
 ## Git Workflow Strategy

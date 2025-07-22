@@ -1,5 +1,9 @@
 # Technology Stack Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides a standardized technology stack for modern web applications.
 
 ## Frontend Technology Stack

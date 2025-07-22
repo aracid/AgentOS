@@ -1,5 +1,9 @@
 # Testing Strategy Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides a comprehensive testing strategy for ensuring application quality and reliability.
 
 ## Testing Philosophy

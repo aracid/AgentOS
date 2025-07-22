@@ -1,5 +1,9 @@
 # API Design Patterns Template
 
+**Version: 1.0.0** | **Last Updated: January 2025** | **AgentOS Standards**
+
+---
+
 This template provides standardized API design patterns for building consistent and maintainable APIs.
 
 ## API Structure Patterns
